@@ -1,4 +1,9 @@
 package models;
 
-public class PlayerType {
+public enum PlayerType {
+
+    BOT,
+
+    HUMAN
+
 }
